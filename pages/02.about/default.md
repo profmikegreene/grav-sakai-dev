@@ -4,5 +4,7 @@ title: 'About Me'
 ---
 
 This is MG2.
+
 Edited on profmikegreene.com
+
 Edited on github via link in Sakai
