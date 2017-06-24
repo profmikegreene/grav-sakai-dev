@@ -1,6 +1,6 @@
 ---
-title:About
+title: 'About Me'
+0: 'title:About'
 ---
 
-#About Me
-This is MG
+This is MG2
