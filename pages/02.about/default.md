@@ -5,4 +5,6 @@ title: 'About Me'
 
 This is MG2.
 
-Edited on my.com
+Edited on my .com
+
+Edited on github via Sakai Web Content Tool
